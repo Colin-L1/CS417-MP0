@@ -146,6 +146,9 @@ PlayerSettings:
   bundleVersion: 0.1.0
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  - {fileID: -2571029083014360457, guid: 4b448bf7910935a499c9ae051a87fd46, type: 2}
+  - {fileID: 11400000, guid: 15760de3b9c440744aa2b7c73c1c23c0, type: 2}
+  - {fileID: -2522780688690108058, guid: dfffc327045fabb4dbd46545c2a41b07, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -937,7 +940,7 @@ PlayerSettings:
   cloudProjectId: 77979fd5-e0c4-4091-881f-a07a79234996
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Introduction
+  projectName: CS417 - The Room
   organizationId: colinli05
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
